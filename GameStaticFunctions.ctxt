@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameStaticFunctions
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameFunctions\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameStaticFunctions()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GameFunctions\n
+comment2.params=
+comment2.target=void\ directionsIntro()
+comment3.params=
+comment3.target=void\ splashScreenIntro()
+numComments=4
